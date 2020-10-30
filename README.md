@@ -9,3 +9,8 @@ It Can:
 - Password Protected
 
 Default Password: root
+
+<h1>Changelog</h1>
+Version 1.1
+-Made It So It Clears The Terminal After A Command For A Cleaner Experience
+-Linux Version Is Coming Soon
