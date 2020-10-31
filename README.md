@@ -15,4 +15,4 @@ Note: Windows Might Recognise It As A "Threat". It Isn't (You Can Check The Code
 <h1>Changelog</h1>
 Version 1.1
 <p>-Made It So It Clears The Terminal After A Command For A Cleaner Experience</p>
-<p>-Linux Version Is Coming Soon</p>
+<p>-Update: Linux Version Has Been Added</p>
