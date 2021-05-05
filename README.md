@@ -13,6 +13,9 @@ Default Password: root
 Note: Windows Might Recognise It As A "Threat". It Isn't (You Can Check The Code For Yourself). Just Click More Info, Then Run Anyway.
 
 <h1>Changelog</h1>
-Version 1.1
+<h2>Version 1.2</h2>
+<p>-Small Rebranding</p>
+
+<h2>Version 1.1</h2>
 <p>-Made It So It Clears The Terminal After A Command For A Cleaner Experience</p>
 <p>-Update: Linux Version Has Been Added</p>

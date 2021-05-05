@@ -75,7 +75,7 @@ def delete():
 def main():
 	conn = sqlite3.connect('pass.db')
 	c = conn.cursor()
-	print("megachickn101's Password Manager")
+	print("LockUrPasswords")
 	print("Mode?")
 	print("Read: 1")
 	print("Write: 2")
