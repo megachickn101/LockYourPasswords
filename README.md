@@ -7,7 +7,6 @@ It Can:
 - Delete Them
 - Make New Passwords
 - Password Protected
-- Encrypted
 
 Default Password: root
 
